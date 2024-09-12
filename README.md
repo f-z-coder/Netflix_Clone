@@ -40,7 +40,7 @@ This project is a fully responsive clone of the Netflix landing page, created us
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/netflix-landing-page.git
+git clone https://github.com/f-z-coder/Netflix_Clone.git
 ```
 
 2. Open `index.html` in your browser to see the project.
