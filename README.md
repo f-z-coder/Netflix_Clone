@@ -2,6 +2,9 @@
 
 This project is a fully responsive clone of the Netflix landing page, created using HTML, CSS, and JavaScript. It showcases essential front-end development skills including layout design, responsive web development, and basic DOM manipulation.
 
+## Live Demo
+You can view the live version of the project here: [Netflix Landing Page Clone](https://nc-landing-page.netlify.app/)
+
 ## Preview
 
 ![Netflix Landing Page Preview](https://github.com/f-z-coder/Netflix_Clone/blob/master/imgs/preview.png)
@@ -12,7 +15,7 @@ This project is a fully responsive clone of the Netflix landing page, created us
 - **Modern Layout Techniques**: Utilizes CSS Grid and Flexbox for flexible layouts.
 - **Media Queries**: Ensures a mobile-first approach with custom breakpoints.
 - **DOM Manipulation**: JavaScript is used to enhance the page interaction.
-  
+
 ## Technologies Used
 
 - **HTML**: Structure of the web page using all essential HTML tags.
@@ -55,6 +58,4 @@ git clone https://github.com/f-z-coder/Netflix_Clone.git
 ├── script.js
 └── README.md
 ```
-
-
 
